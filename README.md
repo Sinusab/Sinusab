@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sinaab
-- 👀 I’m interested in Bio.inf,Machine Learning and Python
-- 🌱 I’m currently learning Bio.inf
-- 😄 Nickname : Sin(α)
-
+👨‍🔬 Biotech Enthusiast | Bioinformatics Explorer
+🔍 Passionate about: Bioinformatics, Machine Learning, & Python
+🚀 Currently diving deep into data-driven insights & algorithmic challenges
+🧬 Turning biology into code, one sequence at a time
+📚 Lifelong learner | Coding with curiosity
+😄 Nickname: Sin(α)
 <!---
 Sinusab/Sinusab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
