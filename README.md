@@ -17,11 +17,6 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 
 ---
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/main/assets/snake.svg" />
-</p>
-
 <!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,vscode" height="45"/>
@@ -32,4 +27,10 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 <!-- Quote -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=16F2F2&center=true&vCenter=true&width=600&lines=This+too+shall+pass." />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/output/github-contribution-grid-snake-dark.svg" />
 </p>
