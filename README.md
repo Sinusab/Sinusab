@@ -9,8 +9,4 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 
 I enjoy combining biology with computation to extract insights from data.
 
-<p align="center">
-  ⭐ If you like my profile, consider starring my repos!
-</p>
-
 ---
