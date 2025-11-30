@@ -18,3 +18,9 @@ I enjoy combining biology with computation to extract insights from data.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/main/dist/snake.svg" alt="snake gif" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,git,github,vscode" />
+</p>
