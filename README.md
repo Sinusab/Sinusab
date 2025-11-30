@@ -10,3 +10,7 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 I enjoy combining biology with computation to extract insights from data.
 
 ---
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sinusab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M[%20Y]&mode=weekly" height="180">
+</p>
