@@ -21,7 +21,7 @@ I enjoy blending biology with computation to extract meaningful insights from da
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,seaborn,github,vscode" height="45"/>
 </p>
 
 ---
