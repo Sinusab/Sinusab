@@ -7,29 +7,21 @@
 
 ## 🌌 About Me
 Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  
-**Machine Learning**, **Bioinformatics**, and **Python-based data analysis**.
-
-I enjoy combining biology with computation to extract meaningful insights from data.
+**Machine Learning**, **Bioinformatics**, and **Python-based data analysis**.  
+I enjoy blending biology with computation to extract meaningful insights from data.
 
 ---
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sinusab&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" height="180"/>
-</p>
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/main/dist/snake.svg" alt="snake animation"/>
+  <img src="https://streak-stats.demolab.com?user=Sinusab&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" height="170"/>
 </p>
 
 ---
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,git,github,vscode" height="45"/>
 </p>
 
 ---
