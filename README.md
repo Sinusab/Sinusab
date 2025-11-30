@@ -28,6 +28,6 @@ I enjoy combining biology with computation to extract insights from data.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=16F2F2&lines=Learning+Never+Stops;Bioinformatics+%E2%9C%A8+Machine+Learning;Keep+Building%2C+Keep+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=16F2F2&lines=This+too+shall+pass;" />
 </p>
 
