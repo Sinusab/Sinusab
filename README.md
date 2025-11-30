@@ -17,6 +17,11 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 
 ---
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/main/assets/snake.svg" />
+</p>
+
 <!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,vscode" height="45"/>
