@@ -29,8 +29,3 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
   <img src="https://readme-typing-svg.herokuapp.com?color=16F2F2&center=true&vCenter=true&width=600&lines=This+too+shall+pass." />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sinusab/Sinusab/output/github-contribution-grid-snake-dark.svg" />
-</p>
