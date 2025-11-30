@@ -14,3 +14,8 @@ I enjoy combining biology with computation to extract insights from data.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sinusab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M[%20Y]&mode=weekly" height="180">
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinusab&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
