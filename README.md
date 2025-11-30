@@ -6,9 +6,7 @@
 ---
 
 ## 🌌 About Me
-Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  
-**Machine Learning**, **Bioinformatics**, and **Python-based data analysis**.  
-I enjoy blending biology with computation to extract meaningful insights from data.
+Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Learning**, **Bioinformatics**, and **Python-based data analysis**.  I enjoy blending biology with computation to extract meaningful insights from data.
 
 ---
 
