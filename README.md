@@ -21,11 +21,3 @@ Hi! I'm **Sina Abyar**, a **Biotechnology student** interested in  **Machine Lea
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,vscode" height="45"/>
 </p>
-
----
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=16F2F2&center=true&vCenter=true&width=600&lines=This+too+shall+pass." />
-</p>
-
